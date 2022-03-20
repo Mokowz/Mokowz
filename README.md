@@ -1,8 +1,8 @@
-# Hey there, I'm Ronny Mokaya
+# Hey there, I'm Ronny Mokaya🤪
 
 I am a Front-end Web Developer and a UI Designer.
 
-## Languages I know/learning
+## Languages I know/learning🔥
 Javascript
 Python
 C
