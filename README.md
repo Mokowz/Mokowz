@@ -1,6 +1,6 @@
 # Hey there, I'm Ronny Mokaya🤪
 
-I am a Front-end Web Developer and a UI Designer.
+I am a Front-end Web Developer and a UI Designer. Currently learning Data Science.
 
 ## Languages I know/learning🔥
 Javascript
