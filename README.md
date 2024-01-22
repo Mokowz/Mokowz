@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django, Vue**
 
-- 👯 I’m looking to collaborate on **FullStack Projects**
+- 👯 I’m looking to collaborate on **Fullstack Projects**
 
 - 📫 How to reach me **ronniemokaya30@gmail.com**
 
