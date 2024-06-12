@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ronny Mokaya</h1>
-<h3 align="center">Mastering the art of backend development</h3>
+<h3 align="center">Mastering the art of Software Development</h3>
 
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/240_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" />
 
