@@ -3,11 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/240_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" />
 
-- 🔭 I’m currently working on **ALX and Personal Projects**
-
-- 🌱 I’m currently learning **Django, Vue**
-
-- 👯 I’m looking to collaborate on **Fullstack Projects**
+- 🔭 I’m currently working on **Fullstack Projects**
 
 - 📫 How to reach me **ronniemokaya30@gmail.com**
 
