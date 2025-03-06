@@ -21,6 +21,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mokowz&show_icons=true&theme=dark&locale=en&layout=compact" alt="mokowz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mokowz&theme=dark" alt="mokowz" /></p>
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mokowz&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mokowz&theme=dark" alt="Mokowz's GitHub Streak" /></p>
